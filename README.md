@@ -90,3 +90,10 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 Enjoy playing this retro Snake Game and relive the nostalgia of classic gaming!
+
+---
+## Output
+![Screenshot 2025-01-15 011231](https://github.com/user-attachments/assets/0d34d571-fdc4-4d20-90f2-5d09d1d66792)
+![Screenshot 2025-01-15 012132](https://github.com/user-attachments/assets/fca70bc8-9597-4f03-a845-48ae8f7d414e)
+![Screenshot 2025-01-15 012636](https://github.com/user-attachments/assets/dc8bd017-47ca-4f36-8746-e48db8a106bb)
+
