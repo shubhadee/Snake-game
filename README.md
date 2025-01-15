@@ -1,6 +1,6 @@
 # Snake Game
 
-**Author**: Shubhadeep Subal Devnath  
+**Name**: Shubhadeep Subal Devnath  
 **Company**: CODTECH IT SOLUTIONS  
 **Employee ID**: CT08EVR  
 **Domain**: C++ Programming  
